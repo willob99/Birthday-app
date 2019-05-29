@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HowManyDaysUntilMyBirthday</string>
+    <string name="button">Let\'s go!</string>
+    <string name="message">Let\'s figure out how long it is until your birthday.</string>
+    <string name="message2">What day were you born?</string>
+    <string name="prompt">Your birthday here</string>
+    <string name="format">MM/DD</string>
+</resources>
